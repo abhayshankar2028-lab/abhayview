@@ -1,0 +1,10 @@
+title: "Abhay View"
+author: "Abhay Shankar"
+description: "Poetic insights into the world of Sports and Cinema."
+url: "https://abhayshankar2028-lab.github.io" # Replace with your GitHub URL
+baseurl: "/abhayview"             # Replace with your repo name
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
