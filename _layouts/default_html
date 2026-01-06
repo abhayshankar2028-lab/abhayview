@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+</head>
+<body>
+  <header style="text-align: center; padding: 20px;">
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+  </header>
+  <main style="max-width: 800px; margin: auto; padding: 20px;">
+    {% if page.image %}
+      <img src="{{ page.image }}" style="width:100%; border-radius:12px; margin-bottom:20px;">
+    {% endif %}
+    {{ content }}
+  </main>
+  <footer style="text-align: center; padding: 20px;">
+    <p>&copy; {{ "now" | date: "%Y" }} {{ site.author }}</p>
+  </footer>
+</body>
+</html>
