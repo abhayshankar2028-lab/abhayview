@@ -1,12 +1,30 @@
-title: "Abhay View"
-author: "Abhay Shankar"
-description: "Poetic insights into the world of Sports and Cinema."
-url: "https://abhayshankar2028-lab.github.io" # Replace with your GitHub URL
-baseurl: "/abhayview"             # Replace with your repo name
+name: Abhay View
+on:
+  schedule:
+    - cron: "27 * * * *"
+  workflow_dispatch:
 
-theme: minima
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-google_analytics: G-# Replace with your GA4 ID
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install feedparser huggingface_hub
+      - run: python main.py
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "New Post" || exit 0
+          git pull --rebase origin main
+          git push
