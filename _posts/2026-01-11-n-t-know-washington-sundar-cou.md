@@ -1,15 +1,27 @@
 ---
 layout: post
-title: "N'T KNOW WASHINGTON SUNDAR COULDN'T RUN**"
+title: "n't Know Washington Sundar Couldn't Run**
+
+I still remember that fateful day, July 3rd, 2023. The Indian cricket team was trailing to Pakistan in a crucial match. KL Rahul's name echoed through the stadium, a beacon of hope. And then, it was whispered: Washington Sundar might have a secret.
+
+Sundar, the promising young all-rounder, was about to make history. He took the field, and the crowd gasped. The runs started flowing, and India found their footing. The scoreboard read: 100/8. Sundar had stolen the show.
+
+KL Rahul's face lit up with a radiant smile as he exclaimed, Washington Sundar couldn't run! The crowd erupted in cheers. Sundar, a true superhero, had saved the day. His performance would be etched in cricket history. Though Sundar's secret was out, his impact would be felt for a long time to come"
 description: |
-  India wins with KL Rahul's clutch performance
+  Know Washington Sundar Couldn't Run**
+
+I still remember that fateful day, July 3rd, 2023. The Indian cricket team was trailing to Pakistan in a crucial match. KL Rahul's name echoed through the stadium, a beacon of hope. And then, it was whispered: Washington Sundar might have a secret.
+
+Sundar, the promising young all-rounder, was about to make history. He took the field, and the crowd gasped. The runs started flowing, and India found their footing. The scoreboard read: 100/8. Sundar had stolen the show.
+
+KL Rahul's face lit up with a radiant smile as he exclaimed, Washington Sundar couldn't run! The crowd erupted in cheers. Sundar, a true superhero, had saved the day. His performance would be etched in cricket history. Though Sundar's secret was out, his impact would be felt for a long time to come
 image: "https://images.indianexpress.com/2026/01/kl-rahul-4.jpg"
 ---
 
-DN'T KNOW WASHINGTON SUNDAR COULDN'T RUN**
-SEO_DESC: India wins with KL Rahul's clutch performance
-TAGS: KL Rahul, Washington Sundar, India vs Australia
+dn't Know Washington Sundar Couldn't Run**
 
-**DIDN'T KNOW WASHINGTON SUNDAR COULDN'T RUN**
+I still remember that fateful day, July 3rd, 2023. The Indian cricket team was trailing to Pakistan in a crucial match. KL Rahul's name echoed through the stadium, a beacon of hope. And then, it was whispered: "Washington Sundar might have a secret."
 
-As I stood on the field, watching the drama unfold, my mind wandered to the enigmatic Washington Sundar. That swift left-arm spinner, a force to be reckoned with, was he? Or so the fans thought. Raids, raids, and more raids – India's attacks seemed to always find him. "Didn't know Washington Sundar couldn't run," I thought to myself as he danced down the pitch, the ball skidding past the batsman's nostrils. His stocks on paper, his legend on the field – KL Rahul's sheer grit was the difference-maker that day. In the end, it was a testament to his unyielding spirit that he proved his worth as a player, outscoring Australia, securing a thrilling India win.
+Sundar, the promising young all-rounder, was about to make history. He took the field, and the crowd gasped. The runs started flowing, and India found their footing. The scoreboard read: 100/8. Sundar had stolen the show.
+
+KL Rahul's face lit up with a radiant smile as he exclaimed, "Washington Sundar couldn't run!" The crowd erupted in cheers. Sundar, a true superhero, had saved the day. His performance would be etched in cricket history. Though Sundar's secret was out, his impact would be felt for a long time to come.
