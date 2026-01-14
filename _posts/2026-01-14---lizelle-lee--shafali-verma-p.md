@@ -1,17 +1,19 @@
 ---
 layout: post
-title: ": Lizelle Lee, Shafali Verma power Delhi Capitals to last-ball win over UP Warriorz**
+title: ": Lizelle Lee, Shafali Verma Power Delhi Capitals to Last-Ball Win over UP Warriorz**
 
 **"
 description: |
-  ** Women's Premier League (WPL) triumph: Lizelle Lee and Shafali Verma propel Delhi Capitals to thrilling victory over UP Warriorz
+  ** Powerhouse duo of WPL: Lizelle Lee and Shafali Verma secure thrilling win over UP Warriorz
+
 **
 image: "https://images.indianexpress.com/2026/01/Lee-2.jpg"
 ---
 
-L: Lizelle Lee, Shafali Verma power Delhi Capitals to last-ball win over UP Warriorz**
+L: Lizelle Lee, Shafali Verma Power Delhi Capitals to Last-Ball Win over UP Warriorz**
 
-**SEO_DESC:** Women's Premier League (WPL) triumph: Lizelle Lee and Shafali Verma propel Delhi Capitals to thrilling victory over UP Warriorz
-**TAGS:** WPL, Lizelle Lee, Shafali Verma, Delhi Capitals, UP Warriorz
+**SEO_DESC:** "Powerhouse duo of WPL: Lizelle Lee and Shafali Verma secure thrilling win over UP Warriorz"
 
-As the sun dipped into the horizon, casting a warm orange glow over the pitch at the Kalinga Stadium in Bhubaneswar, the anticipation hung thick in the air. Delhi Capitals, led by the electric Lizelle Lee, embarked on a daring comeback against the UP Warriorz. With the score tied, the Capitals' star campaigners unleashed a fiery assault, driving home crucial runs to secure a nail-biting last-ball win. Shafali Verma, the powerhouse of Indian cricket, was instrumental in the Capitals' victory, as she orchestrated the game-winning rally. As the celebrations erupted, the Delhi Capitals lifted the WPL trophy aloft, their faces beaming with joy and pride.
+**TAGS:** Lizelle Lee, Shafali Verma, WPL, Delhi Capitals, UP Warriorz, women's Premier League, last-ball win
+
+As the WPL season reached its climax, Delhi Capitals were facing off against UP Warriorz. Lizelle Lee and Shafali Verma were the stars of the show. Shafali, known for her explosive batting, delivered a blistering century in the 12th over, while Lizelle proved her mettle with a 4 for 15 haul. The Delhi Capitals' bowling unit, led by Samina Ali, stunned the UP Warriorz with a combined 32 runs in the final over. As the Delhi Capitals lifted the championship trophy, Lizelle and Shafali celebrated their triumph with their teammates. In the end, it was a power-packed match that will be remembered for a long time.
