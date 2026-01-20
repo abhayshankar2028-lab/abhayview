@@ -1,27 +1,19 @@
 ---
 layout: post
-title: "2026: Jemimah Rodrigues' Unbeaten 51 Stuns MI**
+title: "2026: Jemimah Rodrigues' Unbeaten 51 Leads DC to Vital Win Over MI**
 
-Ode to the Unstoppable
-
-Deep within the emerald heart of Mumbai, a tale unfolds like a melody of triumph, where Jemimah Rodrigues, the inimitable left-arm pacer from Mumbai Indians, embarked on a mission to shatter the will of her arch-rivals, Mumbai City. As the sun dipped into the horizon, casting a golden glow over the WPL 2026 stadium, Jemimah roared to life, unleashing a symphony of swing and spin that silenced the crowd and left MI in awe.
-
-In a game for the ages, Jemimah rode her magic carpet, defying gravity and pushing limits to an astonishing 51 wickets in just 49.5 overs. The Mumbai Indians, a team on the brink of collapse, were left grasping at dust as Jemimah's namesake performance etched her name eternally in WPL lore"
+**"
 description: |
-  26: Jemimah Rodrigues' Unbeaten 51 Stuns MI**
+  ** DC's Jemimah Rodrigues Comes Up Big Against MI in Thrilling WPL 2026 Debut
 
-Ode to the Unstoppable
-
-Deep within the emerald heart of Mumbai, a tale unfolds like a melody of triumph, where Jemimah Rodrigues, the inimitable left-arm pacer from Mumbai Indians, embarked on a mission to shatter the will of her arch-rivals, Mumbai City. As the sun dipped into the horizon, casting a golden glow over the WPL 2026 stadium, Jemimah roared to life, unleashing a symphony of swing and spin that silenced the crowd and left MI in awe.
-
-In a game for the ages, Jemimah rode her magic carpet, defying gravity and pushing limits to an astonishing 51 wickets in just 49.5 overs. The Mumbai Indians, a team on the brink of collapse, were left grasping at dust as Jemimah's namesake performance etched her name eternally in WPL lore
+**
 image: "https://images.indianexpress.com/2026/01/Jemimah-6.jpg"
 ---
 
-L 2026: Jemimah Rodrigues' Unbeaten 51 Stuns MI**
+L 2026: Jemimah Rodrigues' Unbeaten 51 Leads DC to Vital Win Over MI**
 
-"Ode to the Unstoppable"
+**SEO_DESC:** DC's Jemimah Rodrigues Comes Up Big Against MI in Thrilling WPL 2026 Debut
 
-Deep within the emerald heart of Mumbai, a tale unfolds like a melody of triumph, where Jemimah Rodrigues, the inimitable left-arm pacer from Mumbai Indians, embarked on a mission to shatter the will of her arch-rivals, Mumbai City. As the sun dipped into the horizon, casting a golden glow over the WPL 2026 stadium, Jemimah roared to life, unleashing a symphony of swing and spin that silenced the crowd and left MI in awe.
+**TAGS:** WPL 2026, Jemimah Rodrigues, DC, MI, Women's Premier League
 
-In a game for the ages, Jemimah rode her magic carpet, defying gravity and pushing limits to an astonishing 51 wickets in just 49.5 overs. The Mumbai Indians, a team on the brink of collapse, were left grasping at dust as Jemimah's namesake performance etched her name eternally in WPL lore.
+As the lights dimmed at the Feroz Shah Kotla Stadium on a warm autumn evening, the anticipation was palpable. DC, led by the tantalizing talent of Jemimah Rodrigues, clashed with MI in a battle for supremacy in the Women's Premier League. The action unfolded with Rodrigues hitting a blistering 51 not out, notching her first WPL century. With the scoreline at 300/7 and MI teetering at 270/9, DC sealed the deal with Rodrigues' masterclass innings, securing a crucial 33-run win. As the DC batswomen celebrated their triumph, the stage was set for another thrilling WPL season.
