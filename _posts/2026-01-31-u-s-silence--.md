@@ -2,14 +2,14 @@
 layout: post
 title: "u's Silence**"
 description: |
-  A Life Unspoken, A Secret Kept
+  A poignant exploration of Tabu's complex relationship with her father, driven by a deep-seated desire to escape his legacy.
 image: "https://images.indianexpress.com/2026/01/tabu_e64fa4.jpg"
 ---
 
 bu's Silence**
 
-SEO_DESC: "A Life Unspoken, A Secret Kept"
+SEO_DESC: A poignant exploration of Tabu's complex relationship with her father, driven by a deep-seated desire to escape his legacy.
 
-TAGS: Tabu, Silence, Abandonment, Identity
+TAGS: identity, family, trauma, regret
 
-As I sit in the quiet of the night, I am haunted by the enigma that is Tabu. Her eyes, like two stars, shine bright with a fire that refuses to be extinguished. But behind this radiant beauty, a story unfolds of a life unspoken, a secret kept hidden for far too long. I am drawn to the mystery of her past, yet it is not a curiosity that drives me, but a sense of longing. For in her silence, I hear the whispers of a soul that has been abandoned, a soul that has chosen to keep its true identity hidden. And so, I ask myself, what is it that Tabu has chosen to keep from the world? Is it a name, a family, a life? The answer, like the wind that whispers through the trees, remains a mystery, forever lost in the shadows of her silence.
+I sit in silence, a statue of my father's memory. The weight of his absence is a physical force that presses upon my chest. I have no memories of him, not curious about him, nor do I wish to be. The stories he told me, the lessons he drilled into me – all mere breadcrumbs leading to a barren landscape of my own making. I have chosen to leave him behind, to forge my own path. His surname, a constant reminder of the choices I've made, the paths I've taken. Yet, I dare not look him in the eye, lest I be confronted with the secrets I've tried to bury.
