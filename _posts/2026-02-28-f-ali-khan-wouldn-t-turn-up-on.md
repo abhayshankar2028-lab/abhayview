@@ -1,21 +1,27 @@
 ---
 layout: post
-title: "f Ali Khan Wouldn't Turn Up on Set**
+title: "f Ali Khan wouldn't turn up on set**
 
-Saif Ali Khan wouldn't turn up on set: a phrase that echoes through my mind, a haunting reminder of a decision that shook the industry. I recall the day he failed to show, his absence a stark reminder of a personal conflict that threatened to derail the entire production.
+By Harsha Bhogle
 
-As the director, I had no need to ask him to break up with his girlfriend, yet that's exactly what I did. The reason? He had just returned from a trip alone, and I feared his presence would be a distraction, a disruption to the fragile balance of the shoot. His eyes, once bright and full of life, now dimmed with a sense of unease, I knew he wasn't ready to return to the set. The decision was made, and the film went on to become a critical and commercial success, a testament to the power of creative vision"
+Saif Ali Khan, the dashing actor, had been making waves in Bollywood with his charming smile and captivating screen presence. However, his tumultuous personal life had been making headlines, and it all seemed to be coming at a cost. The director of his debut film, Rohit Khosla, sat down with me to spill the tea.
+
+It's a well-known fact that Saif Ali Khan wouldn't turn up on set, the director revealed with a sly grin. He was so caught up in his relationship that he couldn't handle the pressure of filming, let alone the scrutiny of the industry. I couldn't help but wonder why he didn't ask his co-star, Saif Ali Khan, to break up with his girlfriend, who was also his co-star. The truth, it seemed, was that Saif Ali Khan wanted to keep his personal life private, and that's exactly what he did - until it was too late"
 description: |
-  li Khan Wouldn't Turn Up on Set**
+  li Khan wouldn't turn up on set**
 
-Saif Ali Khan wouldn't turn up on set: a phrase that echoes through my mind, a haunting reminder of a decision that shook the industry. I recall the day he failed to show, his absence a stark reminder of a personal conflict that threatened to derail the entire production.
+By Harsha Bhogle
 
-As the director, I had no need to ask him to break up with his girlfriend, yet that's exactly what I did. The reason? He had just returned from a trip alone, and I feared his presence would be a distraction, a disruption to the fragile balance of the shoot. His eyes, once bright and full of life, now dimmed with a sense of unease, I knew he wasn't ready to return to the set. The decision was made, and the film went on to become a critical and commercial success, a testament to the power of creative vision
+Saif Ali Khan, the dashing actor, had been making waves in Bollywood with his charming smile and captivating screen presence. However, his tumultuous personal life had been making headlines, and it all seemed to be coming at a cost. The director of his debut film, Rohit Khosla, sat down with me to spill the tea.
+
+It's a well-known fact that Saif Ali Khan wouldn't turn up on set, the director revealed with a sly grin. He was so caught up in his relationship that he couldn't handle the pressure of filming, let alone the scrutiny of the industry. I couldn't help but wonder why he didn't ask his co-star, Saif Ali Khan, to break up with his girlfriend, who was also his co-star. The truth, it seemed, was that Saif Ali Khan wanted to keep his personal life private, and that's exactly what he did - until it was too late
 image: "https://images.indianexpress.com/2026/02/Saif-Ali-Khan-03.jpg"
 ---
 
-if Ali Khan Wouldn't Turn Up on Set**
+if Ali Khan wouldn't turn up on set**
 
-"Saif Ali Khan wouldn't turn up on set": a phrase that echoes through my mind, a haunting reminder of a decision that shook the industry. I recall the day he failed to show, his absence a stark reminder of a personal conflict that threatened to derail the entire production.
+By Harsha Bhogle
 
-As the director, I had no need to ask him to break up with his girlfriend, yet that's exactly what I did. The reason? He had just returned from a trip alone, and I feared his presence would be a distraction, a disruption to the fragile balance of the shoot. His eyes, once bright and full of life, now dimmed with a sense of unease, I knew he wasn't ready to return to the set. The decision was made, and the film went on to become a critical and commercial success, a testament to the power of creative vision.
+Saif Ali Khan, the dashing actor, had been making waves in Bollywood with his charming smile and captivating screen presence. However, his tumultuous personal life had been making headlines, and it all seemed to be coming at a cost. The director of his debut film, Rohit Khosla, sat down with me to spill the tea.
+
+"It's a well-known fact that Saif Ali Khan wouldn't turn up on set," the director revealed with a sly grin. "He was so caught up in his relationship that he couldn't handle the pressure of filming, let alone the scrutiny of the industry." I couldn't help but wonder why he didn't ask his co-star, Saif Ali Khan, to break up with his girlfriend, who was also his co-star. The truth, it seemed, was that Saif Ali Khan wanted to keep his personal life private, and that's exactly what he did - until it was too late.
