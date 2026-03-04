@@ -1,0 +1,15 @@
+---
+layout: post
+title: "efully They Can Get Up and Have Monday Off**
+
+Finn Allen's 33-ball 100, a majestic stroke that carried New Zealand to the T20 World Cup final, sent the Kiwi fans into raptures. As the new champion emerged from the adrenaline-fueled contest, he couldn't help but grin from ear to ear. Hopefully, they can get up and have Monday off, Allen chuckled, shaking his head in amazement. I mean, can you imagine? 33 balls and a hundred not enough to win? It's like riding a bike for the first time... it's an incredible feeling. The Kiwi captain's infectious laughter echoed through the Wellington stadium, as his teammates swarmed around him, snapping selfies and basking in the glory of their historic triumph. In the midst of this joyous chaos, Allen couldn't help but feel a sense of pride and accomplishment, knowing that his team had achieved the impossible – and had a well-deserved break to enjoy"
+description: |
+  lly They Can Get Up and Have Monday Off**
+
+Finn Allen's 33-ball 100, a majestic stroke that carried New Zealand to the T20 World Cup final, sent the Kiwi fans into raptures. As the new champion emerged from the adrenaline-fueled contest, he couldn't help but grin from ear to ear. Hopefully, they can get up and have Monday off, Allen chuckled, shaking his head in amazement. I mean, can you imagine? 33 balls and a hundred not enough to win? It's like riding a bike for the first time... it's an incredible feeling. The Kiwi captain's infectious laughter echoed through the Wellington stadium, as his teammates swarmed around him, snapping selfies and basking in the glory of their historic triumph. In the midst of this joyous chaos, Allen couldn't help but feel a sense of pride and accomplishment, knowing that his team had achieved the impossible – and had a well-deserved break to enjoy
+image: "https://images.indianexpress.com/2026/03/FINN-ALLEN.jpg"
+---
+
+pefully They Can Get Up and Have Monday Off**
+
+Finn Allen's 33-ball 100, a majestic stroke that carried New Zealand to the T20 World Cup final, sent the Kiwi fans into raptures. As the new champion emerged from the adrenaline-fueled contest, he couldn't help but grin from ear to ear. "Hopefully, they can get up and have Monday off," Allen chuckled, shaking his head in amazement. "I mean, can you imagine? 33 balls and a hundred not enough to win? It's like riding a bike for the first time... it's an incredible feeling." The Kiwi captain's infectious laughter echoed through the Wellington stadium, as his teammates swarmed around him, snapping selfies and basking in the glory of their historic triumph. In the midst of this joyous chaos, Allen couldn't help but feel a sense of pride and accomplishment, knowing that his team had achieved the impossible – and had a well-deserved break to enjoy.
