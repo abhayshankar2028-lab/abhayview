@@ -2,15 +2,12 @@
 layout: post
 title: "y Got Better Throughout the Ashes**"
 description: |
-  Rob Key on Brendon McCullum's future as England coach
+  The Resilience of Brendon McCullum: Why England's Future Hinges on His Return
 image: "https://images.indianexpress.com/2025/12/McCullum-2.jpg"
 ---
 
 ey Got Better Throughout the Ashes**
+SEO_DESC: "The Resilience of Brendon McCullum: Why England's Future Hinges on His Return"
+TAGS: England Cricket Team, Brendon McCullum, Ashes Series
 
-SEO_DESC: "Rob Key on Brendon McCullum's future as England coach"
-TAGS: Brendon McCullum, England cricket
-
-Brendon McCullum has been the face of England's Ashes campaigns for years, but will he continue to lead the team? "They got better throughout the Ashes," says McCullum. "He's been fantastic, but he's not invincible. The lads around him have grown in confidence, and that's what's going to make the difference."
-
-As the England team prepares to face their final Test against South Africa, McCullum's future is anyone's guess. Will he be given the green light to continue leading, or will a change be needed to bring in fresh blood? One thing is certain: Bob Willis, his coaching mentor, has high praise for the veteran batsman. "He's a winner," Willis says. "He's got the character and the ability to deliver results."
+In the midst of the Ashes' turbulent landscape, England cricket's fortunes have been shaped by one individual: Brendon McCullum. The legendary swing bowler's unwavering dedication and unrelenting passion have been the driving force behind the team's resurgence. As the 2019 series marked a turning point, McCullum's resurgence was palpable. His emergence as England's coach may have been met with skepticism, but his capabilities and conviction have cemented his place in the team. "They got better throughout the Ashes," McCullum concedes. "I never doubted myself. Now, it's time for others to follow in my footsteps."
