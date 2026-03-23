@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "y Got Better Throughout the Ashes**
-**"
+title: "y Got Better Throughout the Ashes**"
 description: |
-  Brendon McCullum to remain England coach amid criticism**
-**
+  Rob Key on Brendon McCullum's future as England coach
 image: "https://images.indianexpress.com/2025/12/McCullum-2.jpg"
 ---
 
 ey Got Better Throughout the Ashes**
-**SEO_DESC: "Brendon McCullum to remain England coach amid criticism"**
-**TAGS: Brendon McCullum, England cricket, captaincy**
 
-As I sit here, reflecting on the Ashes, I find myself drawn to the words of Rob Key, the former England wicketkeeper. In an interview, he spoke of Brendon McCullum's ability to lead from the front, his will to win, and the fact that the team has "got better throughout the series". These sentiments resonate deeply, especially in the face of criticism that has surrounded McCullum's tenure. Despite the doubts, the team has shown signs of improvement, and it's clear that McCullum's passion and determination will remain a driving force behind the team. As I pen these words, I am reminded that the darkest days often precede the brightest moments.
+SEO_DESC: "Rob Key on Brendon McCullum's future as England coach"
+TAGS: Brendon McCullum, England cricket
+
+Brendon McCullum has been the face of England's Ashes campaigns for years, but will he continue to lead the team? "They got better throughout the Ashes," says McCullum. "He's been fantastic, but he's not invincible. The lads around him have grown in confidence, and that's what's going to make the difference."
+
+As the England team prepares to face their final Test against South Africa, McCullum's future is anyone's guess. Will he be given the green light to continue leading, or will a change be needed to bring in fresh blood? One thing is certain: Bob Willis, his coaching mentor, has high praise for the veteran batsman. "He's a winner," Willis says. "He's got the character and the ability to deliver results."
