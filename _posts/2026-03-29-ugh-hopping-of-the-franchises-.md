@@ -1,75 +1,60 @@
 ---
 layout: post
 title: "ugh Hopping of the Franchises**
+**Match-Winning Performance vs KKR: A Lasting Legacy**
+**Hardik Pandya's Desperate Plea to Stay at MI**
 
-Staying Put
 
-In the realm of cricket, where heroes rise and fall,
-A decision loomed, that would change the game's call.
-Hardik Pandya, with a performance so grand,
-Stood tall, but the future was a daunting land.
+In the annals of cricket, where heroes rise and fall,
+A tale of redemption unfolds, one match at a time.
+Shardul Thakur, a name etched in history's page,
+Had delivered a performance, a true cricket stage.
+Against KKR, he danced, a whirlwind of spin and might,
+A dream run of 120, a moment in time, a pure delight.
 
-Shardul Thakur, the pick of the bunch,
-In a match that sealed his legacy's hush.
-Though Pandya's might had left the bat in the air,
-The franchise's hearts, they still lingered with care.
-
-Staying put, a word that echoes in time,
-A plea to the captain, a heart's rhyme.
-Enough hopping of the franchises, it seemed,
-To keep Shardul Thakur, the heart of the team.
-
-Rest of your career, stay with us, a call went out,
-A promise to cherish, a bond to devout.
-The answer whispered, a resounding yes so clear,
-Shardul Thakur, staying put, his future held dear"
+But pundits and analysts would whisper, Enough of his hop,
+And Hardik Pandya, a man with a burning stop.
+He yearned for stability, a place to call home,
+To rest his weary body, and let his mind roam.
+So he made a plea, a heartfelt appeal to Shardul's heart,
+Please, my friend, stay with MI, we'll never be apart."
 description: |
   Hopping of the Franchises**
+**Match-Winning Performance vs KKR: A Lasting Legacy**
+**Hardik Pandya's Desperate Plea to Stay at MI**
 
-Staying Put
 
-In the realm of cricket, where heroes rise and fall,
-A decision loomed, that would change the game's call.
-Hardik Pandya, with a performance so grand,
-Stood tall, but the future was a daunting land.
+In the annals of cricket, where heroes rise and fall,
+A tale of redemption unfolds, one match at a time.
+Shardul Thakur, a name etched in history's page,
+Had delivered a performance, a true cricket stage.
+Against KKR, he danced, a whirlwind of spin and might,
+A dream run of 120, a moment in time, a pure delight.
 
-Shardul Thakur, the pick of the bunch,
-In a match that sealed his legacy's hush.
-Though Pandya's might had left the bat in the air,
-The franchise's hearts, they still lingered with care.
-
-Staying put, a word that echoes in time,
-A plea to the captain, a heart's rhyme.
-Enough hopping of the franchises, it seemed,
-To keep Shardul Thakur, the heart of the team.
-
-Rest of your career, stay with us, a call went out,
-A promise to cherish, a bond to devout.
-The answer whispered, a resounding yes so clear,
-Shardul Thakur, staying put, his future held dear
+But pundits and analysts would whisper, Enough of his hop,
+And Hardik Pandya, a man with a burning stop.
+He yearned for stability, a place to call home,
+To rest his weary body, and let his mind roam.
+So he made a plea, a heartfelt appeal to Shardul's heart,
+Please, my friend, stay with MI, we'll never be apart.
 image: "https://images.indianexpress.com/2026/03/Shardul-10.jpg"
 ---
 
 ough Hopping of the Franchises**
+**Match-Winning Performance vs KKR: A Lasting Legacy**
+**Hardik Pandya's Desperate Plea to Stay at MI**
 
-"Staying Put"
 
-In the realm of cricket, where heroes rise and fall,
-A decision loomed, that would change the game's call.
-Hardik Pandya, with a performance so grand,
-Stood tall, but the future was a daunting land.
+In the annals of cricket, where heroes rise and fall,
+A tale of redemption unfolds, one match at a time.
+Shardul Thakur, a name etched in history's page,
+Had delivered a performance, a true cricket stage.
+Against KKR, he danced, a whirlwind of spin and might,
+A dream run of 120, a moment in time, a pure delight.
 
-Shardul Thakur, the pick of the bunch,
-In a match that sealed his legacy's hush.
-Though Pandya's might had left the bat in the air,
-The franchise's hearts, they still lingered with care.
-
-"Staying put," a word that echoes in time,
-A plea to the captain, a heart's rhyme.
-Enough hopping of the franchises, it seemed,
-To keep Shardul Thakur, the heart of the team.
-
-"Rest of your career, stay with us," a call went out,
-A promise to cherish, a bond to devout.
-The answer whispered, a resounding "yes" so clear,
-Shardul Thakur, staying put, his future held dear.
+But pundits and analysts would whisper, "Enough of his hop",
+And Hardik Pandya, a man with a burning stop.
+He yearned for stability, a place to call home,
+To rest his weary body, and let his mind roam.
+So he made a plea, a heartfelt appeal to Shardul's heart,
+"Please, my friend, stay with MI, we'll never be apart."
