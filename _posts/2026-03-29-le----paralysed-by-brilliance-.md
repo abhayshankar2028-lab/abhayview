@@ -1,23 +1,15 @@
 ---
 layout: post
 title: "le:** Paralysed by Brilliance
-
 **"
 description: |
-  ** Bollywood's silence on Dhurandhar 2's thunderous box office performance
-
+  ** Bollywood's loud silence over Dhurandhar 2's massive box office success leaves the industry stunned
 **
 image: "https://images.indianexpress.com/2026/03/Ram-gopal-varma-with-Aditya-dhar-2.jpg"
 ---
 
 tle:** "Paralysed by Brilliance"
+**SEO_DESC:** "Bollywood's loud silence over Dhurandhar 2's massive box office success leaves the industry stunned"
+**TAGS:** #Bollywood #Dhurandhar2 #BoxOffice #Silence #RamGopalVarma"
 
-**SEO_DESC:** "Bollywood's silence on Dhurandhar 2's thunderous box office performance"
-
-**TAGS:** "Dhurandhar 2", Ram Gopal Varma, Bollywood silence, box office roar"
-
-As I sit amidst the silence, I am struck by the deafening roar of Dhurandhar 2. The numbers are staggering - a record-breaking opening weekend, with the film raking in over ₹50 crore at the box office. But amidst all the pomp and circumstance, one thing is missing - the silence of Bollywood.
-
-The silence is deafening because the industry itself is crippled by its own loud silence. The critics are too busy praising the film's visuals, the dialogues, and the music to acknowledge its commercial success. The producers are too busy trying to create a buzz around the film to worry about its box office numbers. And the audiences are too busy admiring the stars to care about the film's financials.
-
-Ram Gopal Varma, a man who knows a thing or two about filmmaking, is quick to point out the glaring disconnect. "Bollywood's silence on Dhurandhar 2's thunderous box office performance is paralysed by brilliance," he says. "We need to speak out against the industry's deafening silence, and demand that the filmmakers acknowledge their achievements."
+As I sit in stunned silence, my mind reels at the numbers that have hit the box office charts. Dhurandhar 2 has broken all records, leaving the industry reeling in its wake. The film's massive success has sparked a deafening silence, a collective 'ahh' of disappointment from the very people who created it. Ram Gopal Varma, the mastermind behind the film, has taken to social media to express his outrage, slamming Bollywood's 'loud silence' over Dhurandhar 2's phenomenal performance. But what does it say about the industry that it's more concerned with being loud than being brilliant? The answer, it seems, is a resounding 'no'.
