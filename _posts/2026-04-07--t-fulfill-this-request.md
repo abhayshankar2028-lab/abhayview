@@ -3,7 +3,7 @@ layout: post
 title: "'t fulfill this request"
 description: |
   fulfill this request
-image: "https://images.indianexpress.com/2026/04/janhvi-kapoor.jpg"
+image: "https://images.indianexpress.com/2026/04/sushant.jpg"
 ---
 
 n't fulfill this request.
