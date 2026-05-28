@@ -1,28 +1,12 @@
 ---
 layout: post
-title: "AKING: Hardik Pandya set to lose Mumbai Indians captaincy**
+title: "AKING: Hardik Pandya Set to Lose Mumbai Indians Captaincy**
+
 **"
 description: |
-  ** The Mumbai Indians captaincy is under scrutiny, and Hardik Pandya's future is uncertain
+  ** Pandya's Unstoppable Rise and the Unseen Force Behind the Team's Success
 **
 image: "https://images.indianexpress.com/2026/04/Hardik-18-1.jpg"
 ---
 
-EAKING: Hardik Pandya set to lose Mumbai Indians captaincy**
-**SEO_DESC:** The Mumbai Indians captaincy is under scrutiny, and Hardik Pandya's future is uncertain
-**TAGS:** Mumbai Indians, Hardik Pandya, Captaincy, Cricket
-
-In the twilight of Mumbai Indians, a storm brews
-A tempest of doubt that threatens to upend the muse
-Hardik Pandya, once the captain with a vision grand
-Now faces the music, his future to withstand
-
-The whispers of discontent, the murmurs of doubt
-A once-unshakeable leader, now faltering without a doubt
-The weight of responsibility, the burden to bear
-Hardik Pandya, the captain, with a future to share
-
-As the game of cricket unfolds, the stakes are high
-Will Hardik Pandya rise to the challenge, or will he say goodbye?
-Only time will tell, as the Mumbai Indians prepare
-For the captaincy that's no longer theirs to share.
+** In a shocking turn of events, Mumbai Indians' captain Hardik Pandya is facing a potential loss of the coveted captaincy. The team's management has summoned him to a meeting, and the fate of his leadership hangs in the balance. Pandya's rise to fame has been nothing short of unstoppable, but the pressure is mounting. Will he be able to maintain his composure and continue to lead the team to victory, or will the weight of responsibility prove too much to bear? Only time will tell.
